@@ -6,6 +6,38 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "test1@mail.com",
+      "password": "$2a$10$8vKA2s2RkiLhS1BBzxWBXeAJuLNygs.OK/k.LdPPiQ//4K/yhWopi",
+      "name": "Mudei esse nome",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "produto1",
+      "image": "urlTest",
+      "price": "25",
+      "category": "Fones de Ouvido",
+      "qtd": "50",
+      "id": 1
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaa",
+      "image": "https://m.media-amazon.com/images/I/51ILPk3RaHL._AC_SY450_.jpg",
+      "price": "2189.99",
+      "category": "Celulares",
+      "qtd": "20",
+      "id": 3
+    },
+    {
+      "name": "bbbbbbbbbbbbbbbbbbbbbbbb",
+      "image": "https://m.media-amazon.com/images/I/51ILPk3RaHL._AC_SY450_.jpg",
+      "price": "2189.99",
+      "category": "Celulares",
+      "qtd": "20",
+      "id": 4
     }
   ]
 }

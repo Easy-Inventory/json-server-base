@@ -50,7 +50,7 @@
       "category": "computador",
       "description":"Um computador de alta performance",
       "qtd": "60",
-      "sales":0,
+      "sales":"0",
       "id": 5
     },
     {
@@ -60,7 +60,7 @@
       "category": "celular",
       "qtd": "90",
       "description":"um celular com bateria ilimitada,para durar o dia todo",
-      "sales":0,
+      "sales":"0",
       "id": 7
     },
     {
@@ -70,7 +70,7 @@
       "category": "videogame",
       "qtd": "200",
       "description":"Playstation 5 ultima geração de videogame, acompanhado com 2 controles",
-      "sales":0,
+      "sales":"0",
       "id": 8
     },
     {
@@ -79,7 +79,7 @@
       "price": "2350",
       "category": "computador",
       "description":"Contar com um bom notebook, certamente faz toda a diferença na hora de trabalhar, ou estudar, ou mesmo ter seus momentos de lazer não é? Por isso vale a pena conferir o Notebook NP550XDA-KH3BR da Samsung.",
-      "sales":0,
+      "sales":"0",
       "qtd": "675",
       "id": 9
     }

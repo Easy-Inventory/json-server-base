@@ -1,10 +1,9 @@
 {
   "users": [
     {
-      "email": "kenzinho@mail.com",
-      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "name": "Kenzinho",
-      "age": 38,
+      "email": "kenzinho22@mail.com",
+      "password": "$2a$10$HQu33CvMJ9KiCIq9MJ16Hec7hwmbpEozOYZaJ.5./sySuJNyWIWdq",
+      "name": "mudei meu nome",
       "id": 1
     },
     {
@@ -12,32 +11,79 @@
       "password": "$2a$10$8vKA2s2RkiLhS1BBzxWBXeAJuLNygs.OK/k.LdPPiQ//4K/yhWopi",
       "name": "Mudei esse nome",
       "id": 2
+    },
+    {
+      "email": "test2@mail.com",
+      "name": "test2",
+      "avatar": "url",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "email": "matheus@mail.com",
+      "password": "$2a$10$BafwhzC.qPzWPcIIg2GwTuCsiuOrAS.aRi3z3T1EWA/zO5AvG8gTO",
+      "name": "Matheus Ferreira",
+      "id": 4,
+      "avatar": "https://media.licdn.com/dms/image/D4D35AQFctHVdxPO54Q/profile-framedphoto-shrink_200_200/0/1673880619583?e=1679050800&v=beta&t=VJOz1a8L_-JMrEbqud61yguBTVAG4ohg-9t4YFdFafo",
+      "confirmPassword": "123456mM!"
+    },
+    {
+      "email": "test3@mail.com",
+      "password": "$2a$10$z5oxHVd0/kIaRQOwRisUJOtrXluaVzVCI/jyHxoSo7i3fcJJa47Ky",
+      "name": "test3",
+      "id": 5,
+      "avatar": "https://media.licdn.com/dms/image/D4D35AQFctHVdxPO54Q/profile-framedphoto-shrink_200_200/0/1673880619583?e=1679014800&v=beta&t=dpYx96wpE7VH5kozHByspRw9UC2SI2u6SjFZB1z9qi4"
+    },
+    {
+      "email": "test5@mail.com",
+      "password": "$2a$10$L2Ml74DXl/3RxGSj8UkSpe8sJc4PkVxT9.m/8P2VQzGfeSAHj0kbu",
+      "name": "Matheus",
+      "id": 6,
+      "avatar": "https://media.licdn.com/dms/image/D4D35AQFctHVdxPO54Q/profile-framedphoto-shrink_200_200/0/1673880619583?e=1679014800&v=beta&t=dpYx96wpE7VH5kozHByspRw9UC2SI2u6SjFZB1z9qi4"
     }
   ],
   "products": [
     {
-      "name": "produto1",
-      "image": "urlTest",
-      "price": "25",
-      "category": "Fones de Ouvido",
-      "qtd": "50",
-      "id": 1
+      "name": "PC Gamer Concórdia, Core i5-10400F, GTX1650",
+      "image": "https://images.kabum.com.br/produtos/fotos/317875/pc-gamer-concordia-processador-core-i5-10400f-rgb-geforce-gtx1650-8gb-ssd-480gb-preto-32726_1661526159_g.jpg",
+      "price": "4199.99",
+      "category": "computador",
+      "description":"Um computador de alta performance",
+      "qtd": "60",
+      "sales":0,
+      "id": 5
     },
     {
-      "name": "aaaaaaaaaaaaaaaaaaaaaaaaa",
-      "image": "https://m.media-amazon.com/images/I/51ILPk3RaHL._AC_SY450_.jpg",
-      "price": "2189.99",
-      "category": "Celulares",
-      "qtd": "20",
-      "id": 3
+      "name": "Celular Smartphone Xiaomi Redmi Note 11 4gb Ram 128gb Graphite Gray",
+      "image": "https://carrefourbr.vtexassets.com/arquivos/ids/94303244/6bf8404a272549768c5d27edb5fe0392.jpg?v=638086760271300000",
+      "price": "1525",
+      "category": "celular",
+      "qtd": "90",
+      "description":"um celular com bateria ilimitada,para durar o dia todo",
+      "sales":0,
+      "id": 7
     },
     {
-      "name": "bbbbbbbbbbbbbbbbbbbbbbbb",
-      "image": "https://m.media-amazon.com/images/I/51ILPk3RaHL._AC_SY450_.jpg",
-      "price": "2189.99",
-      "category": "Celulares",
-      "qtd": "20",
-      "id": 4
+      "name": "playstation 5",
+      "image": "https://images.kabum.com.br/produtos/fotos/308350/kit-console-sony-playstation-5-controle-sem-fio-ps5-dualsense_1644939898_g.jpg",
+      "price": "8000",
+      "category": "videogame",
+      "qtd": "200",
+      "description":"Playstation 5 ultima geração de videogame, acompanhado com 2 controles",
+      "sales":0,
+      "id": 8
+    },
+    {
+      "name": "Notebook Samsung Book i7 8GB 256GB",
+      "image": "https://a-static.mlcdn.com.br/1500x1500/notebook-samsung-book-intel-core-i7-8gb-256gb-ssd-156-full-hd-windows-11-np550xda-ku1br/magazineluiza/233308000/264514eeff25db6d0b0ca58fa0aea271.jpg",
+      "price": "2350",
+      "category": "computador",
+      "description":"Contar com um bom notebook, certamente faz toda a diferença na hora de trabalhar, ou estudar, ou mesmo ter seus momentos de lazer não é? Por isso vale a pena conferir o Notebook NP550XDA-KH3BR da Samsung.",
+      "sales":0,
+      "qtd": "675",
+      "id": 9
     }
+
+
   ]
 }
